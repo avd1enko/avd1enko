@@ -15,5 +15,5 @@ I'm an **ITMO** student, passionate about studying tech and building cool stuff 
 
 ### Worth mentioning:
 - English C1 level
-- DEveloping in team experience
+- Experience working in a team
 - Always eager to learn and improve
