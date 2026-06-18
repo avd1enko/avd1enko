@@ -14,7 +14,6 @@ I'm a Bachelor's student in **ITMO** University, passionate about studying tech 
 - Firebase
 - CLI, shell scripting
 - Swift, SwiftUI
-- Markdown
 
 ### Worth mentioning:
 - English C1 level
